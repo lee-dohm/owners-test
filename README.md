@@ -1,2 +1,5 @@
 # owners-test
-Testing the probot/owners integration
+
+Testing various [Probot][probot] integrations.
+
+[probot]: https://github.com/probot/probot
